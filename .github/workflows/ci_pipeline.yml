@@ -24,5 +24,3 @@ jobs:
         - name: correr tests
           run: npm test
           
-        - name: correr aplicacion
-          run: npm start
